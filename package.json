@@ -1,19 +1,5 @@
 {
-  "name": "gulpie",
-  "version": "1.0.0",
-  "description": "my project",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Dan4yk228/GULPIE.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Dan4yk228/GULPIE/issues"
-  },
-  "homepage": "https://github.com/Dan4yk228/GULPIE#readme"
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
